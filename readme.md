@@ -32,8 +32,8 @@ sem utrapassar o limiar de poder da mesma
 https://github.com/TECHGAMESPI/JogoMercador
 
 # tecnologias-utilizadas
-Java(19.1);
-Utilizando grfos, árvores, pilhas, filas e listas.
+Java(19.1);<br>
+Utilizando grfos, árvores, pilhas, filas e listas.</br>
 
 # Autores
 
