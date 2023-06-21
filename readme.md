@@ -33,6 +33,7 @@ https://github.com/TECHGAMESPI/JogoMercador
 
 # tecnologias-utilizadas
 Java(19.1);
+Utilizando grfos, árvores, pilhas, filas e listas.
 
 # Autores
 
