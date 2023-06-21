@@ -22,5 +22,5 @@
 
 # Autores
 
-| [<img src="https://cdn.discordapp.com/attachments/854391678549622786/1121178281241223178/kuc0zk.jpeg" width=115><br><sub>Kawan Ribeiro</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/114101679?v=4" width=115><br><sub>José Cândido</sub>](https://github.com/TECHGAMESPI) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img src="https://cdn.discordapp.com/attachments/854391678549622786/1121178281241223178/kuc0zk.jpeg" width=115><br><sub>Kawan Ribeiro</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/114101679?v=4" width=115><br><sub>José Cândido</sub>](https://github.com/TECHGAMESPI) |  [<img src="" width=115><br><sub>Paulo Herrique Leite</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
