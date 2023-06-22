@@ -8,7 +8,7 @@
 
 * [Título](#Título)
 * [Índice](#índice)
-* [Introdução](#introcução)
+* [Introdução](#Introdução)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
