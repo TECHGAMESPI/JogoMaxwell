@@ -45,7 +45,7 @@ atendendo aos requisitos que foram propostos pelo professor na [documentação](
 https://github.com/TECHGAMESPI/JogoMercador
 
 # Metodologia
-Foi utilizado uma metodologia de desenvolvimento onde utilizamos as ferramentas padrões do próprio "Java", sem uso de bibliotecas externas, 
+Foi utilizado uma metodologia de desenvolvimento onde utilizamos as ferramentas padrões do próprio "Java", sem uso de bibliotecas externas
 
 # tecnologias-utilizadas
 Java(19.1);<br>
