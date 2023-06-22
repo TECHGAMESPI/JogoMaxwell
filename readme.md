@@ -1,4 +1,4 @@
-# Título e Imagem de capa
+# Título 
 
 # DOCUMENTAÇÃO DO JOGO DO MAXWELL
 
@@ -6,7 +6,7 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título](#Título)
 * [Índice](#índice)
 * [Introdução](#introcução)
 * [Descrição do Projeto](#descrição-do-projeto)
