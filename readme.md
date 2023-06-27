@@ -36,7 +36,9 @@ a cidade de Nargumun zerado de moedas ele também perde. O objetivo do jogo é c
 sem utrapassar o limiar de poder da mesma. Para desenvolvimento do jogo foi formado uma equipe composta pelos [membros](#Autores),
 atendendo aos requisitos que foram propostos pelo professor na [documentação](https://drive.google.com/file/d/1LlP7Q7rZ6qFFT5Ft-sDwsZiShFIj61_V/view?usp=sharing) do trabalho.
 
-
+# Descrição da equipe
+A equipe foi composta pelos [membros](#Autores) onde cada menbro desempenhou um papel importante para o projeto o Kawan fez os grafos, arvores e listas, 
+o Mateus fez a inserção das cidades nas arestas, o José Cândido fez a documentação e o mercador. 
  
 # Status
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -45,11 +47,12 @@ atendendo aos requisitos que foram propostos pelo professor na [documentação](
 https://github.com/TECHGAMESPI/JogoMercador
 
 # Metodologia
-Foi utilizado uma metodologia de desenvolvimento onde utilizamos as ferramentas padrões do próprio "Java", sem uso de bibliotecas externas
+Foi utilizado uma metodologia de desenvolvimento onde utilizamos as ferramentas padrões do próprio "Java", com o  uso de bibliotecas do
+proprio Java 
 
 # tecnologias-utilizadas
 Java(19.1);<br>
-Utilizando grfos, árvores, pilhas, filas e listas.</br>
+Utilizando grfos(par a construção das cidades), árvores(tomada de decisões), pilha, filas e listas(armazenagem de dados).</br>
 
 # Autores
 
