@@ -62,7 +62,7 @@ Utilizando grfos(par a construção das cidades), árvores(tomada de decisões),
 MIT License Copyright (c)
 
 # Conclusão
-o Jogo Foi desenvolvido para a realização da porva de estrutura de dados da faculdade Icev.
+o Jogo Foi desenvolvido para a realização da prova de estrutura de dados da faculdade Icev.
 
 # Referências
 Java documentation(https://docs.oracle.com/en/java/).
