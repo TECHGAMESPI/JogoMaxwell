@@ -41,7 +41,7 @@ A equipe foi composta pelos [membros](#Autores) onde cada menbro desempenhou um 
 o Mateus fez a classe Playmap, o José Cândido fez a documentação e auxilio no mercador e criação da classe da Joia e o Paulo fez a classe Maxwell. 
  
 # Status
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLU%C3%8DDO&color=GREEN&style=for-the-badge)
 
 # Acesso ao projeto
 https://github.com/TECHGAMESPI/JogoMercador
