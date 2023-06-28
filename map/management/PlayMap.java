@@ -21,6 +21,8 @@ public class PlayMap {
 
     public PlayMap () {
 
+       // verifica quando o jogo deve parar 
+
         while (true) {
             if (this.displayOptions().getCity() == map.nargumun){
                 if (this.maxwell.getCoins() >= 10) {
@@ -42,7 +44,7 @@ public class PlayMap {
                 break;
             }
 
-            else if (this.maxwell.getCoins() == 0) {
+            else if (this.maxwell.getCoins() <= 0) {
                 System.out.println("Você perdeu!!! Maxwell ficou sem moedas de transportes, nao é possivel viajar");
                 break;
             }
@@ -52,10 +54,14 @@ public class PlayMap {
 
     public Vertice displayOptions () {
 
+        // exibe as informaçoes no jogo
+
         System.out.println("\nCidade Atual: " + map.getCurrentCity().getCity().getName());
         System.out.println("Moedas: " + this.maxwell.getCoins());
         System.out.println("Poder da joia: " + this.jewel.getWeightJewel());
         System.out.println("Peso suportado da joia: " + this.maxwell.getLimiarJewel()  + "\n\n");
+
+        // Vendedor: pergunta se quer trocar moeda por limiar de joia
 
         Scanner scan = new Scanner(System.in);
         System.out.println("\nMercador: Deseja trocar 1 moeda por 1 limiar de joia? [1 - sim / 2 - não]");
@@ -67,6 +73,8 @@ public class PlayMap {
         }
 
         System.out.println(this.mission);
+
+        // Se as missoes estiverem ativas, verifica se esta na cidade do objetivo, se estiver, a missao é finalizada
         
         if (this.maxwell.getStatusMission()) {
 
@@ -115,6 +123,8 @@ public class PlayMap {
             
     }
 
+        // Verifica se na cidade possui uma missao
+
         if (map.getCurrentCity().getCity() == map.kingdom_of_kalb && !this.maxwell.getStatusMission()) {
             Scanner input = new Scanner(System.in);
             System.out.println("Esta cidade possui uma missão... Deseja aceitar? [1 - sim / 2 - não]");
@@ -156,6 +166,8 @@ public class PlayMap {
                 this.z = true;
             }
         }
+
+        // Verifica qual a cidade que o jogador quer ird
 
         System.out.println("\nViajar: \n");
 
