@@ -38,7 +38,7 @@ atendendo aos requisitos que foram propostos pelo professor na [documentação](
 
 # Descrição da equipe
 A equipe foi composta pelos [membros](#Autores) onde cada menbro desempenhou um papel importante para o projeto. Kawan fez os grafos, arvores e listas, 
-o Mateus fez a classe Playmap, o José Cândido fez a documentação e mercador e o Paulo fez a classe Character. 
+o Mateus fez a classe Playmap, o José Cândido fez a documentação e auxilio no mercador e criação da classe da Joia e o Paulo fez a classe Maxwell. 
  
 # Status
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
