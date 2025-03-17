@@ -56,7 +56,7 @@ Utilizando grfos(par a construção das cidades), árvores(tomada de decisões),
 
 # Autores
 
-| [<img src="https://cdn.discordapp.com/attachments/854391678549622786/1121178281241223178/kuc0zk.jpeg" width=115><br><sub>Kawan Ribeiro</sub>](https://github.com/kwan2004) | [<img src="https://github.com/TECHGAMESPI.png" width=115><br><sub>José Cândido</sub>](https://github.com/TECHGAMESPI) | [<img src="https://github.com/paulohenrique1303.png" width=115><br><sub>Paulo Herrique Leite</sub>](https://github.com/paulohenrique1303) | [<img src="https://github.com/MateusMendes535.png" width=115><br><sub>Mateus Mendes Caminha</sub>](https://github.com/MateusMendes535) |
+| [<img src="https://github.com/Kawan2004.png" width=115><br><sub>Kawan Ribeiro</sub>](https://github.com/Kawan2004) | [<img src="https://github.com/TECHGAMESPI.png" width=115><br><sub>José Cândido</sub>](https://github.com/TECHGAMESPI) | [<img src="https://github.com/paulohenrique1303.png" width=115><br><sub>Paulo Herrique Leite</sub>](https://github.com/paulohenrique1303) | [<img src="https://github.com/MateusMendes535.png" width=115><br><sub>Mateus Mendes Caminha</sub>](https://github.com/MateusMendes535) |
 | :---: | :---: | :---: | :---: |
 # Licença
 MIT License Copyright (c)
