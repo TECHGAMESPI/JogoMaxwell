@@ -65,4 +65,4 @@ MIT License Copyright (c)
 o Jogo Foi desenvolvido para a realização da prova de estrutura de dados da faculdade Icev.
 
 # Referências
-Java <sub>documentation</sub>(https://docs.oracle.com/en/java/).
+Java [documentation](https://docs.oracle.com/en/java/).
